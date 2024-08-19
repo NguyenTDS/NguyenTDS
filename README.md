@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NguyenTDS
 - 👀 I’m interested in Machine Learning & Deep Learning on the base of Natural Language Processing. I am also very interested in coding games.
-- 🌱 I’m currently learning C# and using Unity.
+- 🌱 I’m currently learning CSS.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
